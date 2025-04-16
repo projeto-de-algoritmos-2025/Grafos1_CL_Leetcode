@@ -4,6 +4,8 @@
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
+| Matrícula | Aluno |
+| -- | -- |
 | 211061977 | João Víctor Costa Andrade |
 | 211063185 | Lucas Ribeiro de Souza |
 
