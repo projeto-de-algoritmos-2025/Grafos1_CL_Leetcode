@@ -5,7 +5,7 @@
 
 ## Alunos
 | 211061977 | João Víctor Costa Andrade |
-| -- | -- |
+| 211063185 | Lucas Ribeiro de Souza |
 
 ## Sobre 
 Esse projeto visa aplicar os conceitos de grafos1 ministrados em sala de aula. 
