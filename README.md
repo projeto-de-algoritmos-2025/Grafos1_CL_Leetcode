@@ -24,15 +24,11 @@ O objetivo desta lista é aprofundar a compreensão e aplicação de conceitos f
 
 As soluções desenvolvidas visam consolidar o entendimento teórico e fortalecer a capacidade de resolver problemas computacionais complexos usando grafos.
 
----
-
 ## Sobre o LeetCode
 
 [LeetCode](https://leetcode.com) é uma plataforma online utilizada mundialmente para desenvolver habilidades em programação, algoritmos e estruturas de dados. Ela oferece uma ampla variedade de problemas práticos, organizados por tópicos como Grafos, Programação Dinâmica, Árvores, entre outros.
 
 Os problemas também são classificados por nível de dificuldade — **Fácil**, **Média** e **Difícil** —, permitindo uma progressão natural no aprendizado. Para esta lista, os alunos utilizaram a plataforma como ambiente de prática e validação das soluções estudadas em sala de aula.
-
----
 
 ## Questões Resolvidas
 
@@ -43,13 +39,9 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | [1761. Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | Difícil | Lucas Ribeiro de Souza | Abordagem com matriz de adjacência e cálculo de grau externo |
 | []() | Difícil | João Víctor Costa Andrade |  |
 
----
-
 ## Disciplina
 
 Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, ministrada pelo **Prof. Maurício**, no curso de **Engenharia de Software** da **Universidade de Brasília (UnB)**.
-
----
 
 ## Conclusão
 
