@@ -30,9 +30,9 @@ As soluções desenvolvidas visam consolidar o entendimento teórico e fortalece
 
 Os problemas também são classificados por nível de dificuldade — **Fácil**, **Média** e **Difícil** —, permitindo uma progressão natural no aprendizado. Para esta lista, os alunos utilizaram a plataforma como ambiente de prática e validação das soluções estudadas em sala de aula.
 
-## Questões Resolvidas
+## Exercícios Resolvidos
 
-| Questão | Enunciado | Dificuldade | Autor da Resolução | Observações |
+| Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
 | :--: | -- | :--: | -- | -- |
 | 1 | [785. Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2025/Grafos1_SocialNetwork/tree/main/Exerc%C3%ADcio%201) | Média | Lucas Ribeiro de Souza | Verifica se um grafo é bipartido utilizando BFS. |
 | 2 | []() | Média | João Víctor Costa Andrade |  |
