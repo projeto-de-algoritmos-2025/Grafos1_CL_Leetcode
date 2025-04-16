@@ -32,12 +32,12 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 
 ## Questões Resolvidas
 
-| Exercício | Dificuldade | Autor da Resolução | Observações |
-|---------|-----------|------------------|-----------|
-| [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Média | Lucas Ribeiro de Souza | Resolvido com BFS e análise de bipartição |
-| []() | Média | João Víctor Costa Andrade |  |
-| [1761. Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | Difícil | Lucas Ribeiro de Souza | Abordagem com matriz de adjacência e cálculo de grau externo |
-| []() | Difícil | João Víctor Costa Andrade |  |
+| Questão | Enunciado | Dificuldade | Autor da Resolução | Observações |
+| :--: | -- | :--: | -- | -- |
+| 1 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Média | Lucas Ribeiro de Souza | Resolvido com BFS e análise de bipartição |
+| 2 | []() | Média | João Víctor Costa Andrade |  |
+| 3 | [1761. Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | Difícil | Lucas Ribeiro de Souza | Abordagem com matriz de adjacência e cálculo de grau externo |
+| 4 | []() | Difícil | João Víctor Costa Andrade |  |
 
 ## Disciplina
 
