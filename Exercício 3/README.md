@@ -40,7 +40,7 @@ Return the minimum degree of a connected trio in the graph, or `-1` if the graph
 
 ![image](https://github.com/user-attachments/assets/7ce82c54-514e-4293-8d3b-1bad8c0f0894)
 
->**Input:**n = 7, edges = [[1,3],[4,1],[4,3],[2,5],[5,6],[6,7],[7,5],[2,6]]<br>
+>**Input:** n = 7, edges = [[1,3],[4,1],[4,3],[2,5],[5,6],[6,7],[7,5],[2,6]]<br>
 >**Output:** 0<br>
 >**Explanation:** There are exactly three trios:<br>
 >1) [1,4,3] with degree 0.
