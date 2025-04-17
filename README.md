@@ -35,7 +35,7 @@ Os problemas também são classificados por nível de dificuldade — **Fácil**
 | Exercício | Enunciado | Dificuldade | Autor da Resolução | Observações |
 | :--: | -- | :--: | -- | -- |
 | 1 | [785. Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2025/Grafos1_SocialNetwork/tree/main/Exerc%C3%ADcio%201) | Média | Lucas Ribeiro de Souza | Verifica se um grafo é bipartido utilizando BFS. |
-| 2 | []() | Média | João Víctor Costa Andrade |  |
+| 2 | [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/projeto-de-algoritmos-2025/Grafos1_CL_Leetcode/tree/main/Exerc%C3%ADcio%202) | Média | João Víctor Costa Andrade | Encontrar o menor conjunto de vértices a partir dos quais todos os outros nós do grafo podem ser alcançados (direta ou indiretamente). |
 | 3 | [1761. Minimum Degree of a Connected Trio in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos1_SocialNetwork/tree/main/Exerc%C3%ADcio%203) | Difícil | Lucas Ribeiro de Souza | Encontra o grau mínimo de um trio conectado em um grafo não direcionado. |
 | 4 | []() | Difícil | João Víctor Costa Andrade |  |
 
