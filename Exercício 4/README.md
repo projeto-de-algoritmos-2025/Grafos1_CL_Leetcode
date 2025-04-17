@@ -49,3 +49,7 @@ Retorne o custo mínimo para fazer com que a grade tenha pelo menos um caminho v
 - 1 <= grid[i][j] <= 4
 
 ## Submissões
+
+![image](https://github.com/user-attachments/assets/4d3f5346-1c02-4dda-aa14-2ca744a9ef57)
+
+![image](https://github.com/user-attachments/assets/800faa73-a6d5-4943-9682-8a129f1e4cdf)
